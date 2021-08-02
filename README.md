@@ -4,7 +4,7 @@
 
 > This is result web design.
 
-# [Link website](https://gustibagusbayu.github.io)
+# [Link website](https://dianbugas.github.io)
 
 ---
 
@@ -47,7 +47,7 @@ Just download the file via zip file or fork my repository.
 
 ## Author Info
 
-- Instragram - [@gustibagusbayu](https://instagram.com/gustibagusbayu)
-- Website - [Padlabs.id](https://gustibagusbayu.github.io/)
+- Instragram - [@dian_bugas](https://instagram.com/dian_bugas)
+- Website - [dianbugas.id](https://dianbugas.github.io/)
 
 [Back To The Top](#read-me-padlabs)
